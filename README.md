@@ -3,9 +3,9 @@
 Hello there! I'm Shah Noor, a seasonal data scientist specializing in web crawling, automation, and machine learning models, I have a technical foundation in Python, Node.js, Django, and Flask, I excel at tackling complex challenges in data extraction, web automation, machine learning, and crafting high-performance web applications. <br/> <br/>
 
 ### 🚀 Web Crawling & Automation  
-- **Expertise in Python & Node.js**  
+- **Python & Node.js**  
   Advanced skills in web scraping with tools like **BeautifulSoup**, **Selenium**, and **Requests** (Python), as well as comparable libraries in Node.js.  
-- **Overcoming Data Extraction Challenges**  
+- **Overcoming Challenges**  
   Skilled in solving complex issues like bypassing **CAPTCHAs**, handling **dynamically loaded content**, and ensuring **efficient data retrieval**.  
 - **Data Delivery**  
   Proficient in delivering extracted data in **structured formats**, tailored to diverse client needs.
