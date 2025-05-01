@@ -1,6 +1,6 @@
 # </> Python Developer
 
-Hello there! I'm Shah Noor, a seasonal data scientist specializing in web crawling, automation, and machine learning models, I have a technical foundation in Python, Node.js, Django, and Flask, I excel at tackling complex challenges in data extraction, web automation, machine learning, and crafting high-performance web applications. <br/> <br/>
+Hello there! I'm Shahnoor, a seasonal data scientist specializing in web crawling, automation, and machine learning models, I have a technical foundation in Python, Node.js, Django, and Flask, I excel at tackling complex challenges in data extraction, web automation, machine learning, and crafting high-performance web applications. <br/> <br/>
 
 ### 🚀 Web Crawling & Automation  
 - **Python & Node.js**  
