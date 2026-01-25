@@ -71,7 +71,8 @@ I’ve successfully delivered **40+ projects**, scraped **millions of records**,
 
 ## 📫 Let’s Connect
 
-- 💼 Upwork: Top Rated Python & Automation Developer  
+- 💼 Upwork: Top Rated Python & Automation Developer
+- 👉 https://www.upwork.com/freelancers/~015467812857acc84f
 - 🧑‍💻 GitHub: Exploring scalable scraping, automation & AI systems  
 - 🌍 Open to freelance, contract, and long-term collaboration  
 
