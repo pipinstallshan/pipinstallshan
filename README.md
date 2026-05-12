@@ -1,6 +1,6 @@
 # </> Python Developer
 
-Hey there 👋 I’m **Shahnoor**, a Python-focused developer and data specialist with 4+ years of hands-on experience in **web scraping, automation, full-stack development, and AI/ML systems**. I build scalable, production-ready solutions that extract, process, and transform data into real business value.
+Hey there 👋 I’m **Shahnoor**, a Python-focused developer and data scientist with 4+ years of hands-on experience in **web scraping, automation, full-stack development, and AI/ML systems**. I build scalable, production-ready solutions that extract, process, and transform data into real business value.
 
 I’ve successfully delivered **40+ projects**, scraped **millions of records**, handled **captcha-protected and JavaScript-heavy websites**, and built automation systems used in real-world workflows.
 
@@ -71,7 +71,7 @@ I’ve successfully delivered **40+ projects**, scraped **millions of records**,
 
 ## 📫 Let’s Connect
 
-- 💼 Upwork: Top Rated Python & Automation Developer
+- 💼 Upwork: Top Rated Python & Automation Developer [https://www.upwork.com/freelancers/shahnoorr]
 - 🧑‍💻 GitHub: Exploring scalable scraping, automation & AI systems  
 - 🌍 Open to freelance, contract, and long-term collaboration  
 
